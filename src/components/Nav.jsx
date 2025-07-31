@@ -18,7 +18,7 @@ const Nav = () => {
       </Link>
 
       <div className="flex gap-4 items-center">
-        <div className="flex gap-3">
+        <div className="gap-3 hidden md:flex">
           <Link
             href="https://www.linkedin.com/in/oluwafemi-kayode-b6918413b/"
             className="p-2 rounded-full flex justify-center items-center border border-white/5 text-gray hover:bg-gray-dark hover:text-white"
