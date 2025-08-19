@@ -2,7 +2,9 @@ const Header = () => {
   return (
     <section className="mt-16">
       <h1 className="capitalize font-bold text-3xl md:text-4xl text-white">
-        hi 👋, I'm oluwafemi kayode.
+        hi{" "}
+        <span className="inline-block origin-[70%_80%] animate-wave">👋</span>,
+        I'm oluwafemi kayode.
       </h1>
       <p className="mt-2.5 md:text-lg md:w-4/5">
         Hey there, I'm Kayode, a creative and detailed-oriented software
