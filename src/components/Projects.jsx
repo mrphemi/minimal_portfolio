@@ -23,10 +23,10 @@ const projectsData = [
     link: "https://www.atomos.co.uk/",
   },
   {
-    title: "Explore Moviez",
-    description: "Movie List from TMDB.",
-    technologies: ["React.js", "SCSS", "TMDB API"],
-    link: "https://exploremoviez.netlify.app/",
+    title: "Clays",
+    description: "Hospitality and entertainment company based in UK.",
+    technologies: ["Next.js", "Tailwind CSS", "Hygraph CMS"],
+    link: "https://clays.bar/",
   },
 ];
 
